@@ -1,6 +1,6 @@
 # Empovation-Challenge
 A report analysis on empovation 4-weeks weekly SQL challenge.
-# Week 1 challenges:
+**# Week 1 challenges:**
 _The SQL challenges involve analyzing key business metrics: counting total orders per customer to identify the most active customers, listing products sold in 2020 to understand sales trends, retrieving customer details from California for regional analysis, calculating total sales quantity for a specific product to monitor its performance, and identifying the top 5 stores with the most sales transactions to recognize top-performing locations. These tasks provide valuable insights into customer behavior, product demand, regional distribution, and store efficiency, aiding in strategic decision-making and operational improvements._
 # Q1.Count the Total Orders
 Write a query to count the Total Number of Orders Per Customer order in desc.
@@ -40,7 +40,8 @@ Write a query to retrieve the Top 5 Stores with the Most Sales Transactions.
 # Output
 ![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/2ed75ffd-9ff5-4dfc-8aa4-87120509a29d)
 
-# Week 2 Challenges:
+**# Week 2 Challenges:**
+_The Week 2 SQL challenges focus on various business analytics tasks: finding the average unit price of products within each category to understand pricing trends, counting the number of orders placed by each gender to analyze customer demographics, listing all products that have never been sold to identify underperforming items, and converting order amounts to USD using exchange rates for accurate financial reporting. These tasks provide insights into product pricing, customer purchasing behavior, inventory management, and financial accuracy, supporting data-driven decision-making and operational efficiency._
 # Q1.Average Price of Products in a Category
 Write a query to find the average unit price of products in each category
 # Code:
@@ -69,7 +70,8 @@ Write a query to show the total amount in USD, round to 2 decimal point for orde
 # Output
 ![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/15ce84a3-d5e5-4878-9d4a-99eb3e3128bb)
 
-# Week 3 Challenge
+**# Week 3 Challenge:**
+_The Week 3 SQL challenges involve several in-depth business analyses: examining the impact of store size on sales volume to determine if larger stores generate higher sales, segmenting customers based on purchase behaviors and demographics for targeted marketing, ranking stores by their sales volume to identify top performers, calculating a running total of daily sales to monitor trends over time, and determining the lifetime value (LTV) of customers both overall and by country to assess long-term customer profitability. These tasks provide valuable insights into store performance, customer behavior, sales trends, and customer value, aiding in strategic planning and marketing efforts._
 # Q1.Impact of Store Size on Sales Volume
  Write a query to analyze whether larger stores (in terms of square meters) have higher sales volumes.
 # Code:
@@ -108,7 +110,8 @@ Write a query to calculate the lifetime value of each customer based on the tota
 # Output
 ![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/55b0e586-d202-4b70-b136-c359d78e150f)
 
-# Week 4 Challenge
+**# Week 4 Challenge:**
+_The Week 4 SQL challenges involve comprehensive business analyses aimed at enhancing strategic decision-making: calculating year-over-year growth in sales per product category to assess performance trends, determining each customer's purchase rank within a store based on order value to identify top customers, performing customer retention analysis to understand repeat purchase behavior by demographics, and optimizing the product mix for each store location to maximize sales revenue by analyzing historical sales data for top-selling products, product popularity, and profit margins. These tasks provide insights into sales growth, customer value, retention trends, and product assortment optimization, supporting targeted marketing and inventory management strategies._
 # Q1.Year-over-Year Growth in Sales per Category
 Write a query to calculate the total annual sales per product category for the current year and the previous year, and then use window functions to calculate the year-over-year growth percentage.
 # Code:
