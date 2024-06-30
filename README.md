@@ -110,18 +110,26 @@ Write a query to calculate the lifetime value of each customer based on the tota
 # Week 4 Challenge
 # Q1.Year-over-Year Growth in Sales per Category
 Write a query to calculate the total annual sales per product category for the current year and the previous year, and then use window functions to calculate the year-over-year growth percentage.
-# Code
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/16404ccc-1287-4d46-bff0-cd581c2e3114)
 # Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/3b73e0a3-db2f-4f58-bc35-93e8435c6b41)
 # Q2.Customer’s Purchase Rank Within Store
 Write a SQL query to find each customer’s purchase rank within the store they bought from, based on the total price of the order (quantity * unit price).
-# Code
-# Output
-
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/b6f895e5-4ac7-4784-9425-e9c5fcd620b2)
+# Output 
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/f6084d74-e82d-4c2e-a57f-3661bdb816ff)
 # Q3.Customer Retention Analysis
 Perform a customer retention analysis to determine the percentage of customers who made repeat purchases within three months of their initial purchase. Calculate the percentage of retained customers by gender, age group, and location.Additionally, identify any trends or patterns in customer retention based on these demographics.
-# Code
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/17029cb3-86d8-49c1-a132-dfef705535c3)
 # Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/2ec9ee27-1b20-4f3e-b5b9-282f4ff17eeb)
 # Q4.Optimize the product mix for each store location to maximize sales revenue.
 Analyze historical sales data to identify the top-selling products in each product category for each store.  Determine the optimal product assortment for each store based on sales performance, product popularity, and profit margins.
-# Code
+# Code: 
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/fc68de8d-7a0b-42e8-8713-ca4668f77401)
 # Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/4e15010a-810e-40da-b2e8-0044167c83f6)
+
