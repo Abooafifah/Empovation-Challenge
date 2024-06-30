@@ -1,6 +1,7 @@
 # Empovation-Challenge
 A report analysis on empovation 4-weeks weekly SQL challenge.
 # Week 1 challenges:
+_The SQL challenges involve analyzing key business metrics: counting total orders per customer to identify the most active customers, listing products sold in 2020 to understand sales trends, retrieving customer details from California for regional analysis, calculating total sales quantity for a specific product to monitor its performance, and identifying the top 5 stores with the most sales transactions to recognize top-performing locations. These tasks provide valuable insights into customer behavior, product demand, regional distribution, and store efficiency, aiding in strategic decision-making and operational improvements._
 # Q1.Count the Total Orders
 Write a query to count the Total Number of Orders Per Customer order in desc.
 
