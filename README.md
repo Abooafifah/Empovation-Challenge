@@ -3,14 +3,11 @@
 # Introduction
 _This report provides a detailed documentation of the analysis conducted for all SQL queries from Week 1 to Week 4 of the challenge. The objective is to evaluate query performance, document data cleaning processes, derive business insights, and provide recommendations for future improvements. The analysis covers the period from [3/06/2024] to [28/06/2024]._
 # Summary of Queries
-Total Queries Executed: 500,
+Total Queries Executed: 33,
 Average Execution Time: 1.2 seconds,
-Success Rate: 98%
+Success Rate: 90%
 # Types of Queries:
-SELECT: 300
-INSERT: 100
-UPDATE: 80
-DELETE: 20
+SELECT: 33
 # **Week 1 challenges:**
 _The SQL challenges involve analyzing key business metrics: counting total orders per customer to identify the most active customers, listing products sold in 2020 to understand sales trends, retrieving customer details from California for regional analysis, calculating total sales quantity for a specific product to monitor its performance, and identifying the top 5 stores with the most sales transactions to recognize top-performing locations. These tasks provide valuable insights into customer behavior, product demand, regional distribution, and store efficiency, aiding in strategic decision-making and operational improvements._
 # Q1.Count the Total Orders
