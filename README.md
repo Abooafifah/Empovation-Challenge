@@ -2,7 +2,16 @@
 A report analysis on empovation 4-weeks weekly SQL challenge.
 # Week 1 challenges:
 Q1.Count the Total Orders
-Write a query to count the Total Number of Orders Per Customer order in desc .
+Write a query to count the Total Number of Orders Per Customer order in desc.
+
+# Code:
+SELECT Name , COUNT(*) AS Total_orders
+FROM Customers C
+INNER JOIN Sales S
+ON C.CustomerKey=S.CustomerKey
+GROUP BY Name
+ORDER BY COUNT(*) DESC.
+
 Q2.List of Products
 Write a SQL query to List of Products Sold in 2020
 Q3.Find Customers in a Specific City
