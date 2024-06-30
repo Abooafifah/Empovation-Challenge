@@ -39,7 +39,7 @@ Write a query to retrieve the Top 5 Stores with the Most Sales Transactions.
 # Output
 ![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/2ed75ffd-9ff5-4dfc-8aa4-87120509a29d)
 
-# Week 2 Challenegs:
+# Week 2 Challenges:
 # Q1.Average Price of Products in a Category
 Write a query to find the average unit price of products in each category
 # Code:
@@ -68,4 +68,60 @@ Write a query to show the total amount in USD, round to 2 decimal point for orde
 # Output
 ![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/15ce84a3-d5e5-4878-9d4a-99eb3e3128bb)
 
+# Week 3 Challenge
+# Q1.Impact of Store Size on Sales Volume
+ Write a query to analyze whether larger stores (in terms of square meters) have higher sales volumes.
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/e4fae2a4-9f4f-4742-abe4-910afd99c18d)
+# Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/92bdb60e-0ec8-433c-af93-1165de4dac1f)
 
+# Q2.Customer Segmentation by Purchase Behavior and Demographics
+ Write a query to segment customers into groups based on their purchase behaviors (e.g., total spend, number of orders) and demographics (e.g., state, gender).
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/142680bc-822a-4ae3-ba0e-ee6a38de2d15)
+# Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/5d1911f4-3194-4184-b6df-6ce175624903)
+Q3.Ranking Stores by Sales Volume
+Write a query to calculate the total sales volume for each store, then rank stores based on their sales volume.
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/da59d696-0b04-41b2-aa01-d53c4dc2df61)
+# Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/7adce636-e785-46f5-ba95-4c22ade3e6e2)
+Q4.Running Total of Sales Over Time
+Write a query to retrieve daily sales volumes, then calculate a running total of sales over time, ordered by date.
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/0cfec726-da89-4ae3-aaf0-1c9337bfea49)
+# Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/91a58769-ed08-4c53-a50f-4d5c7a891299)
+# Q5.Lifetime value (LTV) of customers by country
+Write a query to calculate the lifetime value of each customer based on their country
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/1234c4c8-a347-41c2-b556-7fe5f12679ca)
+# Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/fe71bfe0-c255-4fb6-acb5-04a9516d6bc0)
+# Q6.Customer Lifetime Value
+Write a query to calculate the lifetime value of each customer based on the total amount they’ve spent.
+# Code:
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/54248967-1faa-484f-bfdc-43ad64ec3536)
+# Output
+![image](https://github.com/Abooafifah/Empovation-Challenge/assets/120792738/55b0e586-d202-4b70-b136-c359d78e150f)
+
+# Week 4 Challenge
+# Q1.Year-over-Year Growth in Sales per Category
+Write a query to calculate the total annual sales per product category for the current year and the previous year, and then use window functions to calculate the year-over-year growth percentage.
+# Code
+# Output
+# Q2.Customer’s Purchase Rank Within Store
+Write a SQL query to find each customer’s purchase rank within the store they bought from, based on the total price of the order (quantity * unit price).
+# Code
+# Output
+
+# Q3.Customer Retention Analysis
+Perform a customer retention analysis to determine the percentage of customers who made repeat purchases within three months of their initial purchase. Calculate the percentage of retained customers by gender, age group, and location.Additionally, identify any trends or patterns in customer retention based on these demographics.
+# Code
+# Output
+# Q4.Optimize the product mix for each store location to maximize sales revenue.
+Analyze historical sales data to identify the top-selling products in each product category for each store.  Determine the optimal product assortment for each store based on sales performance, product popularity, and profit margins.
+# Code
+# Output
